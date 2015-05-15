@@ -1,0 +1,79 @@
+Altera SOPC Builder Version 9.10 Build 222
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2013.11.16 14:14:15 (*) mk_custom_sdk starting
+# 2013.11.16 14:14:15 (*) Reading project E:/Courses/F2013/COE718/Labs/Calculator/nios_system.ptf.
+
+# 2013.11.16 14:14:15 (*) Finding all CPUs
+# 2013.11.16 14:14:15 (*) Finding all available components
+# 2013.11.16 14:14:15 (*) Reading E:/Courses/F2013/COE718/Labs/Calculator/.sopc_builder/install.ptf
+
+# 2013.11.16 14:14:15 (*) Found 67 components
+
+# 2013.11.16 14:14:16 (*) Finding all peripherals
+
+# 2013.11.16 14:14:16 (*) Finding software components
+
+# 2013.11.16 14:14:16 (*) (Legacy SDK Generation Skipped)
+# 2013.11.16 14:14:16 (*) (All TCL Script Generation Skipped)
+# 2013.11.16 14:14:16 (*) (No Libraries Built)
+# 2013.11.16 14:14:16 (*) (Contents Generation Skipped)
+# 2013.11.16 14:14:16 (*) mk_custom_sdk finishing
+
+# 2013.11.16 14:14:16 (*) Starting generation for system: nios_system.
+
+.
+.
+.
+.
+.
+
+# 2013.11.16 14:14:17 (*) Running Generator Program for cpu
+
+# 2013.11.16 14:14:18 (*) Starting Nios II generation
+# 2013.11.16 14:14:18 (*)   Checking for plaintext license.
+# 2013.11.16 14:14:18 (*)   Plaintext license not found.
+# 2013.11.16 14:14:18 (*)   No license required to generate encrypted Nios II/e.
+# 2013.11.16 14:14:18 (*)   Getting CPU configuration settings
+# 2013.11.16 14:14:18 (*)   Elaborating CPU configuration settings
+# 2013.11.16 14:14:18 (*)   Creating all objects for CPU
+# 2013.11.16 14:14:19 (*)   Generating HDL from CPU objects
+# 2013.11.16 14:14:19 (*)   Creating plain-text HDL
+
+# 2013.11.16 14:14:23 (*) Done Nios II generation
+
+# 2013.11.16 14:14:23 (*) Running Generator Program for onchip_mem
+
+# 2013.11.16 14:14:24 (*) Running Generator Program for jtag_uart
+
+# 2013.11.16 14:14:24 (*) Running Generator Program for sdram
+
+# 2013.11.16 14:14:25 (*) Running Generator Program for LCD
+
+.
+
+# 2013.11.16 14:14:26 (*) Running Test Generator Program for sdram
+
+# 2013.11.16 14:14:26 (*) Making arbitration and system (top) modules.
+
+# 2013.11.16 14:14:31 (*) Generating Quartus symbol for top level: nios_system
+
+# 2013.11.16 14:14:31 (*) Generating Symbol E:/Courses/F2013/COE718/Labs/Calculator/nios_system.bsf
+
+# 2013.11.16 14:14:31 (*) Creating command-line system-generation script: E:/Courses/F2013/COE718/Labs/Calculator/nios_system_generation_script
+
+# 2013.11.16 14:14:31 (*) Running setup for HDL simulator: modelsim
+
+
+# 2013.11.16 14:14:31 (*) Completed generation for system: nios_system.
+# 2013.11.16 14:14:31 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : E:/Courses/F2013/COE718/Labs/Calculator/nios_system.ptf 
+  System HDL Model : E:/Courses/F2013/COE718/Labs/Calculator/nios_system.vhd 
+  System Generation Script : E:/Courses/F2013/COE718/Labs/Calculator/nios_system_generation_script 
+
+# 2013.11.16 14:14:31 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.
